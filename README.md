@@ -6,4 +6,4 @@ tree map, bins), parameters using tableau and Created different KPI’s
 (age distribution,balance distribution by different dimensions) using
 calculated key figures and parameters.
 
-# tableau project link: https://public.tableau.com/app/profile/rana3962/viz/DashboardofUKBank_16440914793310/Dashboard1?publish=yes
+#  Project Link: https://public.tableau.com/app/profile/rana3962/viz/DashboardofUKBank_16440914793310/Dashboard1?publish=yes
